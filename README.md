@@ -3,4 +3,4 @@ These are drivers That i used for my macbook air which i installed ghost spectre
 
 (READ THE README FILE!!) 
 
-Download link- https://drive.google.com/file/d/1KJWVA4n6oGOiHBDZ_SKUDiM1Oz2G01vl/view?usp=sharing
+Download link - In releases
