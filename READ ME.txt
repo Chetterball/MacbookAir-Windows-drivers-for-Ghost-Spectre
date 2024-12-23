@@ -1,0 +1,26 @@
+This READ ME.txt contains the instructions for installing and using these drivers.
+This contains the REQUIRED drivers for any macbook air from 2015-2020. Which these drivers will need to be installed in steps.
+________________________________________________________________________________________________________________________
+EXCLAIMER!!!
+	You may need to install some of the drivers manually by running the setup.exe or something with that in each 
+	folder, You will also have to do that for some of the steps below to work so make sure you do this FIRST!!!
+	(also if any of these drivers dont work i recommend to run "Driver Easy" or "Driver Booster" which you can 
+	download after you install the wifi driver since that one should work, and just press scan and update ALL of 
+	your drivers)
+________________________________________________________________________________________________________________________
+Firstly: You will need to gointo "Device Manager" and click the icon that when you hover over it it says "Add Drivers".
+	Then make sure the directory for the "Drivers" is the directory you have all of the contents of this folder in.
+	After just add the drivers and dont mind if it says all drivers arent added or something like that.
+________________________________________________________________________________________________________________________
+Secondly: Go down to "Sound, video and game controllers" and right click on the option that says "High Definition" or 
+	something like that, and click "Update Drivers" then select "Cirrus Logic CS4208 (AB 126)" and aftwerwards your
+	audio should work (VoicemeeterProSetup.exe is Optional!!)
+________________________________________________________________________________________________________________________
+Lastly: To get your trackpad FULLY WORKING, you will have to first update Ghost Specture/Toolbox with the provided
+	updater, then after that install "Trackpad++" after that is installed restart your mac. lastly go into device-
+	manager and click on the catagory named "Mice and other poiting devices" and select the "Trackpad++" driver
+	and update it to "HID-compliant mouse" adn you should be done. (DONT UNINSTALL TRACKPAD++ CONTROL MODULE!!!)
+________________________________________________________________________________________________________________________
+
+Thank you for reading this READ ME.txt and downloading my colletion of drivers :)
+Have a great day.
